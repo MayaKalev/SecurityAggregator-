@@ -1,0 +1,18 @@
+# Local secrets / per-developer config
+.env
+# SQLite output
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv*/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
